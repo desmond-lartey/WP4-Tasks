@@ -148,7 +148,7 @@ To maintain an organized and efficient repository, follow these step-by-step ins
 
 | Name               | Affiliation         | Role                 | Email                         |
 |--------------------|---------------------|----------------------|-------------------------------|
-| Desmond Lartey     | Deltares            | Researcher           | larteydesmond3@gmail.com      |
+| Desmond Lartey     | Deltares             | Researcher           | larteydesmond3@gmail.com      |
 | Next               | ....                | ....                 | .                             |
 
 
